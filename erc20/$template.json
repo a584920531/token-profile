@@ -1,28 +1,11 @@
-{
-  "symbol": "Token symbol",
-  "address": "Contract Address",
-  "overview":{
-        "en": "Token Description.",
-        "zh": ""
-  },
-  "email": "Email",
-  "website": "https://your-awesome-project.com/",
-  "whitepaper": "https://your-awesome-project.com/file.pdf",
-  "state": "LOCKED | NORMAL",
-  "published_on": "2018-01-01",
-  "initial_price":{
-        "ETH":"0.00166666 ETH",
-        "USD":"0.7 USD",
-        "BTC":"0.00004137 BTC"
-  },
-  "links": {
-    "blog": "https://your-awesome-project.com/blog",
-    "twitter": "https://twitter.com/your-awesome-project",
-    "telegram": "https://t.me/joinchat/your-awesome-project",
-    "github": "https://github.com/your-awesome-project",
-    "facebook": "https://www.facebook.com/your-awesome-project",
-    "reddit": "https://www.reddit.com/r/your-awesome-project/",
-    "slack": "https://your-awesome-project.slack.com",
-    "medium": "https://medium.com/your-awesome-project"
-  }
-}
+ {
+	  "symbol": "TMR",
+  	 "address": "0x292e8030f21039cdbbfb797d547f57e0a031075a",
+ 	  "overview": {
+	    "zh": "TMR 是以合作共赢，互惠互利为核心。为用户提供高品质的互利资源。用户通过平台发布的任务进行接单，完成任务得到相对应的TMR。"
+	  },
+	  "email": "tideachain888@gmail.com",
+	  "website": "https://tideachain.com/",
+	  "state": "NORMAL",
+	  "published_on": "2018-11-11"
+	}
